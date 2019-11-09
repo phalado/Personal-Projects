@@ -5,7 +5,7 @@ Space to post the links to the projects that I'm working in microverse
 
 ## Embending Images and Videos
 
-Project in colaboration with [Eleazar Meza](https://github.com/elshaka) in [Microverse](https://www.microverse.org).
+Project in colaboration with [Eleazar Meza](https://github.com/elshaka) in [Microverse](https://www.microverse.org) at the HTML and CSS course.
 
 https://github.com/phalado/Embedding-Images-and-Video
 
@@ -14,7 +14,7 @@ Live version [here](https://rawcdn.githack.com/phalado/Embedding-Images-and-Vide
 
 ## HTML Forms
 
-Project in colaboration with [Eleazar Meza](https://github.com/elshaka) in [Microverse](https://www.microverse.org).
+Project in colaboration with [Eleazar Meza](https://github.com/elshaka) in [Microverse](https://www.microverse.org) at the HTML and CSS course.
 
 https://github.com/elshaka/login-form
 
@@ -25,7 +25,7 @@ Live version [here](https://raw.githack.com/elshaka/login-form/master/index.html
 
 ## Positioning and Floating Elements
 
-Project in colaboration with [Eleazar Meza](https://github.com/elshaka) in [Microverse](https://www.microverse.org).
+Project in colaboration with [Eleazar Meza](https://github.com/elshaka) in [Microverse](https://www.microverse.org) at the HTML and CSS course.
 
 https://github.com/phalado/Positioning-and-Floating-Elements/
 
@@ -36,10 +36,44 @@ Live version [here](https://raw.githack.com/phalado/Positioning-and-Floating-Ele
 
 ## Building with Backgrouds and Gradients
 
-Solo project done in [Microverse](https://www.microverse.org).
+Solo project done in [Microverse](https://www.microverse.org) at the HTML and CSS course.
 
 https://github.com/phalado/Building-with-Backgrounds-and-Gradients
 
 Objective [here](https://web.archive.org/web/20140301004610/http://www.apple.com/)
 
 Live version [here](https://raw.githack.com/phalado/Building-with-Backgrounds-and-Gradients/features/index.html)
+
+
+## Design Teardown
+
+Project in colaboration with [Eleazar Meza](https://github.com/elshaka) in [Microverse](https://www.microverse.org) at the HTML and CSS course.
+
+https://github.com/elshaka/design-teardown
+
+This project was different. The objective was not cloning a website, but building a greyscale heat map of one [this site](https://www.smashingmagazine.com/)
+
+Live version [here](hhttps://raw.githack.com/elshaka/design-teardown/master/index.html)
+
+
+## Building with Responsive Design
+
+Project in colaboration with [Eleazar Meza](https://github.com/elshaka) in [Microverse](https://www.microverse.org) at the HTML and CSS course.
+
+https://github.com/phalado/Building-with-Responsive-Design
+
+Objective [here](https://thenextweb.com/)
+
+Live version [here](https://rawcdn.githack.com/phalado/Building-with-Responsive-Design/26a3313ba5b83de484bffbec1c13712546d4278c/index.html)
+
+
+## Using Bootstrap
+
+Solo project done in [Microverse](https://www.microverse.org) at the HTML and CSS course.
+
+https://github.com/phalado/Using-Bootstrap
+
+Objective [here](https://www.newsweek.com/)
+
+Live version [here](https://rawcdn.githack.com/phalado/Using-Bootstrap/7bf89d9a69cfd69381abc181f5f543d38045c23d/index.html)
+
