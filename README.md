@@ -83,6 +83,7 @@ Live version [here](https://rawcdn.githack.com/phalado/Using-Bootstrap/7bf89d9a6
 Project in colaboration with [Eleazar Meza](https://github.com/elshaka) in [Microverse](https://www.microverse.org) at the HTML and CSS course.
 
 https://github.com/elshaka/Design-Your-Own-Grid-based-Framework/
+
 https://github.com/phalado/Odin-Project-Clone
 
 In this project we build our own grid-based framework and used it clone the Odin Project website.
