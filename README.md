@@ -42,7 +42,7 @@ https://github.com/phalado/Building-with-Backgrounds-and-Gradients
 
 Objective [here](https://web.archive.org/web/20140301004610/http://www.apple.com/)
 
-Live version [here](https://raw.githack.com/phalado/Building-with-Backgrounds-and-Gradients/features/index.html)
+Live version [here](https://raw.githack.com/phalado/Building-with-Backgrounds-and-Gradients/master/index.html)
 
 
 ## Design Teardown
@@ -53,7 +53,7 @@ https://github.com/elshaka/design-teardown
 
 This project was different. The objective was not cloning a website, but building a greyscale heat map of one [this site](https://www.smashingmagazine.com/)
 
-Live version [here](hhttps://raw.githack.com/elshaka/design-teardown/master/index.html)
+Live version [here](https://raw.githack.com/elshaka/design-teardown/master/index.html)
 
 
 ## Building with Responsive Design
@@ -77,3 +77,16 @@ Objective [here](https://www.newsweek.com/)
 
 Live version [here](https://rawcdn.githack.com/phalado/Using-Bootstrap/7bf89d9a69cfd69381abc181f5f543d38045c23d/index.html)
 
+
+## Design Your Own Grid-based Framework
+
+Project in colaboration with [Eleazar Meza](https://github.com/elshaka) in [Microverse](https://www.microverse.org) at the HTML and CSS course.
+
+https://github.com/elshaka/Design-Your-Own-Grid-based-Framework/
+https://github.com/phalado/Odin-Project-Clone
+
+In this project we build our own grid-based framework and used it clone the Odin Project website.
+
+Objective [here](https://www.theodinproject.com/home)
+
+Live version [here](https://raw.githack.com/phalado/Odin-Project-Clone/master/index.html)
