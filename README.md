@@ -22,13 +22,13 @@ Space to post the links to the projects that I'm working in [Microverse][Micro-u
 * [Databases - SQL-Zoo](#databases---sql-zoo)
 * [Ruby on Rails](#ruby-on-rails)
   * [Getting Your Feet Wet](#getting-your-feet-wet)
-  * [Let's Get Building](#let-s-get-building)
-  * [Basic Routes, Views and Controllers](#basic-routes--views-and-controllers)
+  * [Let's Get Building](#lets-get-building)
+  * [Basic Routes, Views and Controllers](#basic-routes-views-and-controllers)
   * [Building with Active Record](#building-with-active-record)
-  * [](#)
-  * [](#)
-  * [](#)
-  * [](#)
+  * [Forms](#forms)
+  * [Authentication](#authentication)
+  * [Associations](#associations)
+  * [Final Project](#final-project)
 
 
 ## HTML and CSS
@@ -248,6 +248,46 @@ Project in colaboration with [Alejandro Andres][Alex-github].
 https://github.com/alexawesomecode/micro-reddit
 
 The objective was to build a very junior version of Reddit where is possible to create a user, a post and comment that post using Rails console.
+
+
+### Forms
+
+Project in colaboration with [Alejandro Andres][Alex-github].
+
+https://github.com/phalado/re-former
+
+The objective is to build a form using three different metods: HTML, [form_tag](https://api.rubyonrails.org/classes/ActionView/Helpers/FormTagHelper.html#method-i-form_tag) and [form_for](https://apidock.com/rails/ActionView/Helpers/FormHelper/form_for).
+
+
+### Authentication
+
+Project in colaboration with [Alejandro Andres][Alex-github].
+
+https://github.com/alexawesomecode/members_only
+
+The objective was to build a social community where the members can write posts about non-members; Inside it, members can see the post's author but, outside, only the post can be seen.
+
+
+### Associations
+
+Project in colaboration with [Alejandro Andres][Alex-github].
+
+https://github.com/phalado/private-events
+
+The objective was to build a social community where the members create events and invite other members to it, like [Eventbrite](https://www.eventbrite.com/).
+
+
+### Final Project
+
+Project in colaboration with [Alejandro Andres][Alex-github].
+
+https://github.com/alexawesomecode/facebook-clone-project
+
+The objective was to create a Facebook-like page.
+
+A live version can be seen [here](https://friendsnet.herokuapp.com/)
+
+
 
 
 
