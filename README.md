@@ -29,6 +29,15 @@ Space to post the links to the projects that I'm working in [Microverse][Micro-u
   * [Authentication](#authentication)
   * [Associations](#associations)
   * [Final Project](#final-project)
+* [JavaScript](#javascript)
+  * [Library](#library)
+  * [Tic Tac Toe](#tic-tac-toe)
+  * [Restaurant Page](#restaurant-page)
+  * [To-do List](#to-do-list)
+  * [Weather App](#weather-app)
+  * [Testing Practice](#testing-practice)
+  * [Testing Tic Tac Toe](#testing-tic-tac-toe)
+  * [Capstone project - Space Shooter](#capstone-project---space-shooter)
 
 
 ## HTML and CSS
@@ -132,7 +141,7 @@ Live version [here](https://raw.githack.com/phalado/Odin-Project-Clone/master/in
 
 ## Ruby
 
-Projects done in the HTML and CSS course.
+Projects done in the Ruby course.
 Technologies used:
 * Ruby
 * RSpec gem
@@ -194,7 +203,7 @@ This project consists in going to [SQL Zoo](http://sqlzoo.net/wiki/Main_Page) an
 
 ## Ruby on Rails
 
-Projects done in the HTML and CSS course.
+Projects done in the Ruby on Rails course.
 Technologies used:
 * HTML5
 * CSS
@@ -288,18 +297,121 @@ The objective was to create a Facebook-like page.
 A live version can be seen [here](https://friendsnet.herokuapp.com/)
 
 
+## JavaScript
+
+Projects done in the JavaScript course.
+Technologies used:
+* JavaScript ES6
+* Webpack
+* HTML5
+* CSS
+* [Font Awesome v4.7.0][font-awesome]
+* [Bootstrap 4][bootstrap]
+* [Heroku](https://heroku.com/)
+* Jest
+* [Phaser 3][phaser]
+* Node
+* Express
+* [Leader Board API Service](https://www.notion.so/Leaderboard-API-service-24c0c3c116974ac49488d4eb0267ade3)
+* [Open Weather API](https://openweathermap.org/api)
+* [Giphy API](https://giphy.com/)
+
+
+### Library
+
+Project in colaboration with [Felipe Enne][Felipe-github].
+
+https://github.com/phalado/Library
+
+The objective was to create a locally stored library with your book's name, number of pages, author and status (read/ not read). 
+
+A live version can be seen [here](https://raw.githack.com/phalado/Library/book-library/src/index.html)
+
+
+### Tic Tac Toe
+
+Project in colaboration with [Felipe Enne][Felipe-github].
+
+https://github.com/FelipeEnne/Tic-Tac-Toe-JavaScript
+
+The objective was to create a Tic Tac Toe game, now using JavaCript, HTML and CSS.
+
+A live version can be seen [here](https://raw.githack.com/FelipeEnne/Tic-Tac-Toe-JavaScript/development/index.html)
+
+
+### Restaurant Page
+
+Solo project.
+
+https://github.com/phalado/Restaurant-page
+
+The objective was to create a simple Restaurant Page using webpack.
+
+A live version can be seen [here](https://raw.githack.com/phalado/Restaurant-page/develop/dist/index.html#)
+
+
+### To-do List
+
+Project in colaboration with [Felipe Enne][Felipe-github].
+
+https://github.com/phalado/todo-list
+
+The objective was to create a To-do List where you can add your task list, projects and mark the completed ones.
+
+A live version can be seen [here](https://raw.githack.com/phalado/todo-list/features/dist/index.html#)
+
+
+### Weather App
+
+Solo project.
+
+https://github.com/phalado/Weather-App/
+
+The objective was to create an online weather app where you can see the weather in a selected city.
+
+
+### Testing Practice
+
+Project in colaboration with [Felipe Enne][Felipe-github].
+
+https://github.com/FelipeEnne/Testing-Practice/
+
+The objective was to create some determined algorithms and test them using Jest.
+
+
+### Testing Tic Tac Toe
+
+Project in colaboration with [Felipe Enne][Felipe-github].
+
+https://github.com/phalado/Tic-Tac-Toe-JavaScript/
+
+The objective was to go back to our Tic Tac Toe project and create some tests for it.
+
+
+### Capstone project - Space Shooter
+
+Solo project
+
+https://github.com/phalado/JS-Capstone
+
+The objective was to create a Space Shooter using Phaser 3.
+
+A live version can be seen [here](https://starwars-spaceshooter.herokuapp.com/)
+
+
 
 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [Micro-url]: https://www.microverse.org
 
 [Rapha-github]: https://github.com/Phalado
 [Eleazar-github]: https://github.com/elshaka
 [Daniel-github]: https://github.com/Chincoya
 [Alex-github]: https://github.com/alexawesomecode
+[Felipe-github]: https://github.com/FelipeEnne
 
 [font-awesome]: https://fontawesome.com/v4.7.0/icons/
 [bootstrap]: https://getbootstrap.com/
+[phaser]: https://phaser.io/
