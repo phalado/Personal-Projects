@@ -4,40 +4,48 @@ Space to post the links to the projects that I'm working in [Microverse][Micro-u
 
 ## Content
 
-* [HTML and CSS](#html-and-css)
-  * [Embending Images and Videos](#embending-images-and-videos)
-  * [HTML Forms](#html-forms)
-  * [Positioning and Floating Elements](#positioning-and-floating-elements)
-  * [Building with Backgrouds and Gradients](#building-with-backgrouds-and-gradients)
-  * [Design Teardown](#design-teardown)
-  * [Building with Responsive Design](#building-with-responsive-design)
-  * [Using Bootstrap](#using-bootstrap)
-  * [Design Your Own Grid-based Framework](#design-your-own-grid-based-framework)
-* [Ruby](#ruby)
-  * [Advanced Building Blocks - Bubble Sort](#advanced-building-blocks---bubble-sort)
-  * [Advanced Building Blocks - Enumerable Methods](#advanced-building-blocks---enumerable-methods)
-  * [Tic-Tac-Toe](#tic-tac-toe)
-  * [Testing Your Ruby Code - Tic Tac Toe](#testing-your-ruby-code---tic-tac-toe)
-  * [Testing Your Ruby Code - Enumerable](#testing-your-ruby-code---enumerable)
-* [Databases - SQL-Zoo](#databases---sql-zoo)
-* [Ruby on Rails](#ruby-on-rails)
-  * [Getting Your Feet Wet](#getting-your-feet-wet)
-  * [Let's Get Building](#lets-get-building)
-  * [Basic Routes, Views and Controllers](#basic-routes-views-and-controllers)
-  * [Building with Active Record](#building-with-active-record)
-  * [Forms](#forms)
-  * [Authentication](#authentication)
-  * [Associations](#associations)
-  * [Final Project](#final-project)
-* [JavaScript](#javascript)
-  * [Library](#library)
-  * [Tic Tac Toe](#tic-tac-toe)
-  * [Restaurant Page](#restaurant-page)
-  * [To-do List](#to-do-list)
-  * [Weather App](#weather-app)
-  * [Testing Practice](#testing-practice)
-  * [Testing Tic Tac Toe](#testing-tic-tac-toe)
-  * [Capstone project - Space Shooter](#capstone-project---space-shooter)
+- [Personal-Projects](#personal-projects)
+  - [Content](#content)
+  - [HTML and CSS](#html-and-css)
+    - [Embending Images and Videos](#embending-images-and-videos)
+    - [HTML Forms](#html-forms)
+    - [Positioning and Floating Elements](#positioning-and-floating-elements)
+    - [Building with Backgrounds and Gradients](#building-with-backgrounds-and-gradients)
+    - [Design Teardown](#design-teardown)
+    - [Building with Responsive Design](#building-with-responsive-design)
+    - [Using Bootstrap](#using-bootstrap)
+    - [Design Your Own Grid-based Framework](#design-your-own-grid-based-framework)
+  - [Ruby](#ruby)
+    - [Advanced Building Blocks - Bubble Sort](#advanced-building-blocks---bubble-sort)
+    - [Advanced Building Blocks - Enumerable Methods](#advanced-building-blocks---enumerable-methods)
+    - [Tic-Tac-Toe](#tic-tac-toe)
+    - [Testing Your Ruby Code - Tic Tac Toe](#testing-your-ruby-code---tic-tac-toe)
+    - [Testing Your Ruby Code - Enumerable](#testing-your-ruby-code---enumerable)
+  - [Databases - SQL-Zoo](#databases---sql-zoo)
+  - [Ruby on Rails](#ruby-on-rails)
+    - [Getting Your Feet Wet](#getting-your-feet-wet)
+    - [Let's Get Building](#lets-get-building)
+    - [Basic Routes, Views and Controllers](#basic-routes-views-and-controllers)
+    - [Building with Active Record](#building-with-active-record)
+    - [Forms](#forms)
+    - [Authentication](#authentication)
+    - [Associations](#associations)
+    - [Final Project](#final-project)
+  - [JavaScript](#javascript)
+    - [Library](#library)
+    - [Tic Tac Toe](#tic-tac-toe-1)
+    - [Restaurant Page](#restaurant-page)
+    - [To-do List](#to-do-list)
+    - [Weather App](#weather-app)
+    - [Testing Practice](#testing-practice)
+    - [Testing Tic Tac Toe](#testing-tic-tac-toe)
+    - [Capstone project - Space Shooter](#capstone-project---space-shooter)
+  - [React and Redux](#react-and-redux)
+    - [Calculator](#calculator)
+    - [React BookStore](#react-bookstore)
+    - [Capstone project - Batcomputer](#capstone-project---batcomputer)
+  - [Final capstone - Berk's Academy](#final-capstone---berks-academy)
+  
 
 
 ## HTML and CSS
@@ -51,7 +59,7 @@ Technologies used:
 
 ### Embending Images and Videos
 
-Project in colaboration with [Eleazar Meza][Eleazar-github]
+Project in collaboration with [Eleazar Meza][Eleazar-github]
 
 https://github.com/phalado/Embedding-Images-and-Video
 
@@ -60,7 +68,7 @@ Live version [here](https://rawcdn.githack.com/phalado/Embedding-Images-and-Vide
 
 ### HTML Forms
 
-Project in colaboration with [Eleazar Meza][Eleazar-github].
+Project in collaboration with [Eleazar Meza][Eleazar-github].
 
 https://github.com/elshaka/login-form
 
@@ -71,7 +79,7 @@ Live version [here](https://raw.githack.com/elshaka/login-form/master/index.html
 
 ### Positioning and Floating Elements
 
-Project in colaboration with [Eleazar Meza][Eleazar-github].
+Project in collaboration with [Eleazar Meza][Eleazar-github].
 
 https://github.com/phalado/Positioning-and-Floating-Elements/
 
@@ -80,7 +88,7 @@ Objective [here](https://www.nytimes.com/2014/03/18/science/space/detection-of-w
 Live version [here](https://raw.githack.com/phalado/Positioning-and-Floating-Elements/master/index.html)
 
 
-### Building with Backgrouds and Gradients
+### Building with Backgrounds and Gradients
 
 Solo project.
 
@@ -93,7 +101,7 @@ Live version [here](https://raw.githack.com/phalado/Building-with-Backgrounds-an
 
 ### Design Teardown
 
-Project in colaboration with [Eleazar Meza][Eleazar-github].
+Project in collaboration with [Eleazar Meza][Eleazar-github].
 
 https://github.com/elshaka/design-teardown
 
@@ -104,7 +112,7 @@ Live version [here](https://raw.githack.com/elshaka/design-teardown/master/index
 
 ### Building with Responsive Design
 
-Project in colaboration with [Eleazar Meza][Eleazar-github].
+Project in collaboration with [Eleazar Meza][Eleazar-github].
 
 https://github.com/phalado/Building-with-Responsive-Design
 
@@ -126,7 +134,7 @@ Live version [here](https://rawcdn.githack.com/phalado/Using-Bootstrap/7bf89d9a6
 
 ### Design Your Own Grid-based Framework
 
-Project in colaboration with [Eleazar Meza][Eleazar-github].
+Project in collaboration with [Eleazar Meza][Eleazar-github].
 
 https://github.com/elshaka/Design-Your-Own-Grid-based-Framework/
 
@@ -149,7 +157,7 @@ Technologies used:
 
 ### Advanced Building Blocks - Bubble Sort
 
-Project in colaboration with [Daniel Chincoya][Daniel-github].
+Project in collaboration with [Daniel Chincoya][Daniel-github].
 
 https://github.com/Chincoya/bubble_ruby
 
@@ -162,12 +170,12 @@ Solo project.
 
 https://github.com/phalado/Enumerable-Methods
 
-The objetive was to re-create some methods of the [Enumerable](https://apidock.com/ruby/v2_5_5/Enumerable/) mixin.
+The objective was to re-create some methods of the [Enumerable](https://apidock.com/ruby/v2_5_5/Enumerable/) mixin.
 
 
 ### Tic-Tac-Toe
 
-Project in colaboration with [Daniel Chincoya][Daniel-github].
+Project in collaboration with [Daniel Chincoya][Daniel-github].
 
 https://github.com/phalado/Tic-Tac-Toe
 
@@ -176,7 +184,7 @@ The objective was to create a command prompt implementation of the classic Tic-T
 
 ### Testing Your Ruby Code - Tic Tac Toe
 
-Project in colaboration with [Daniel Chincoya][Daniel-github].
+Project in collaboration with [Daniel Chincoya][Daniel-github].
 
 https://github.com/Chincoya/Tic-Tac-Toe
 
@@ -185,11 +193,11 @@ The objective was to create test using RSpec for the Tic-Tac-Toe project.
 
 ### Testing Your Ruby Code - Enumerable
 
-Project in colaboration with [Daniel Chincoya][Daniel-github].
+Project in collaboration with [Daniel Chincoya][Daniel-github].
 
 https://github.com/phalado/enumerable-ruby
 
-The objective was to create test using RSpec for the Enumerables project.
+The objective was to create some tests using RSpec for the Enumerables project.
 
 
 ## Databases - SQL-Zoo
@@ -223,7 +231,7 @@ Technologies used:
 
 ### Getting Your Feet Wet
 
-Project in colaboration with [Alejandro Andres][Alex-github].
+Project in collaboration with [Alejandro Andres][Alex-github].
 
 https://github.com/phalado/Getting-Your-Feet-Wet
 
@@ -234,7 +242,7 @@ Live version [here](https://getting-your-feet-wet.herokuapp.com/)
 
 ### Let's Get Building
 
-Project in colaboration with [Alejandro Andres][Alex-github].
+Project in collaboration with [Alejandro Andres][Alex-github].
 
 https://github.com/alexawesomecode/rest-client-project
 
@@ -243,16 +251,16 @@ The objective was to use [rest-client gem](https://github.com/rest-client/rest-c
 
 ### Basic Routes, Views and Controllers
 
-Project in colaboration with [Alejandro Andres][Alex-github].
+Project in collaboration with [Alejandro Andres][Alex-github].
 
 https://github.com/phalado/rest-helper
 
-The objective is to follow the tutorial in the [assignment page](https://www.theodinproject.com/courses/ruby-on-rails/lessons/basic-routes-views-and-controllers) creating Ruby, Rails and HTML files and interacting with the Rails application from the comand line sending requests manually.
+The objective is to follow the tutorial in the [assignment page](https://www.theodinproject.com/courses/ruby-on-rails/lessons/basic-routes-views-and-controllers) creating Ruby, Rails and HTML files and interacting with the Rails application from the command line sending requests manually.
 
 
 ### Building with Active Record
 
-Project in colaboration with [Alejandro Andres][Alex-github].
+Project in collaboration with [Alejandro Andres][Alex-github].
 
 https://github.com/alexawesomecode/micro-reddit
 
@@ -261,7 +269,7 @@ The objective was to build a very junior version of Reddit where is possible to 
 
 ### Forms
 
-Project in colaboration with [Alejandro Andres][Alex-github].
+Project in collaboration with [Alejandro Andres][Alex-github].
 
 https://github.com/phalado/re-former
 
@@ -270,7 +278,7 @@ The objective is to build a form using three different metods: HTML, [form_tag](
 
 ### Authentication
 
-Project in colaboration with [Alejandro Andres][Alex-github].
+Project in collaboration with [Alejandro Andres][Alex-github].
 
 https://github.com/alexawesomecode/members_only
 
@@ -279,7 +287,7 @@ The objective was to build a social community where the members can write posts 
 
 ### Associations
 
-Project in colaboration with [Alejandro Andres][Alex-github].
+Project in collaboration with [Alejandro Andres][Alex-github].
 
 https://github.com/phalado/private-events
 
@@ -288,7 +296,7 @@ The objective was to build a social community where the members create events an
 
 ### Final Project
 
-Project in colaboration with [Alejandro Andres][Alex-github].
+Project in collaboration with [Alejandro Andres][Alex-github].
 
 https://github.com/alexawesomecode/facebook-clone-project
 
@@ -319,7 +327,7 @@ Technologies used:
 
 ### Library
 
-Project in colaboration with [Felipe Enne][Felipe-github].
+Project in collaboration with [Felipe Enne][Felipe-github].
 
 https://github.com/phalado/Library
 
@@ -330,11 +338,11 @@ A live version can be seen [here](https://raw.githack.com/phalado/Library/book-l
 
 ### Tic Tac Toe
 
-Project in colaboration with [Felipe Enne][Felipe-github].
+Project in collaboration with [Felipe Enne][Felipe-github].
 
 https://github.com/FelipeEnne/Tic-Tac-Toe-JavaScript
 
-The objective was to create a Tic Tac Toe game, now using JavaCript, HTML and CSS.
+The objective was to create a Tic Tac Toe game, now using JavaScript, HTML and CSS.
 
 A live version can be seen [here](https://raw.githack.com/FelipeEnne/Tic-Tac-Toe-JavaScript/development/index.html)
 
@@ -352,7 +360,7 @@ A live version can be seen [here](https://raw.githack.com/phalado/Restaurant-pag
 
 ### To-do List
 
-Project in colaboration with [Felipe Enne][Felipe-github].
+Project in collaboration with [Felipe Enne][Felipe-github].
 
 https://github.com/phalado/todo-list
 
@@ -372,7 +380,7 @@ The objective was to create an online weather app where you can see the weather 
 
 ### Testing Practice
 
-Project in colaboration with [Felipe Enne][Felipe-github].
+Project in collaboration with [Felipe Enne][Felipe-github].
 
 https://github.com/FelipeEnne/Testing-Practice/
 
@@ -381,7 +389,7 @@ The objective was to create some determined algorithms and test them using Jest.
 
 ### Testing Tic Tac Toe
 
-Project in colaboration with [Felipe Enne][Felipe-github].
+Project in collaboration with [Felipe Enne][Felipe-github].
 
 https://github.com/phalado/Tic-Tac-Toe-JavaScript/
 
@@ -400,6 +408,67 @@ A live version can be seen [here](https://starwars-spaceshooter.herokuapp.com/)
 
 
 
+## React and Redux
+
+Projects done in the JavaScript course.
+Technologies used:
+* React
+* Redux
+* Node
+* Big-JS
+* PropTypes
+* JavaScript ES6
+* Webpack
+* HTML5
+* CSS
+* [Heroku](https://heroku.com/)
+* Jest
+
+
+### Calculator
+
+Solo project
+
+https://github.com/phalado/calculator
+
+The objective was to use React to build a simple web calculator app.
+
+A live version can be seen [here](https://calculator-phalado.herokuapp.com/)
+
+
+### React BookStore
+
+Project in collaboration with [Christian Salazar][Christian-github].
+
+https://github.com/Grifo89/React_Bookstore/
+
+The objective was to use React to build a CMS for a bookstore.
+
+A live version can be seen [here](https://floating-plateau-44876.herokuapp.com/)
+
+
+### Capstone project - Batcomputer
+
+Solo project
+
+https://github.com/phalado/React-Redux-Capstone
+
+This project's goal was to build a browsable list of items that you can filter and access to the details of one item.
+
+A live version can be seen [here](https://batcomputer-copy.herokuapp.com/)
+
+
+
+## Final capstone - Berk's Academy
+
+Solo project
+
+Backend: https://github.com/phalado/final-capstone-api/
+Frontend: https://github.com/phalado/final-capstone
+
+The project's goal was to create a book of appointment. The back-end should be a REST API done with Ruby on Rails. The front-end should be done with React and Redux.
+
+A live version can be seen [here](https://features--berksacademy.netlify.app/)
 
 
 
@@ -411,6 +480,8 @@ A live version can be seen [here](https://starwars-spaceshooter.herokuapp.com/)
 [Daniel-github]: https://github.com/Chincoya
 [Alex-github]: https://github.com/alexawesomecode
 [Felipe-github]: https://github.com/FelipeEnne
+[Christian-github]: https://github.com/Grifo89
+
 
 [font-awesome]: https://fontawesome.com/v4.7.0/icons/
 [bootstrap]: https://getbootstrap.com/
